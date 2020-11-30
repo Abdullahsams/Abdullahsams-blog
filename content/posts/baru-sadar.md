@@ -10,31 +10,35 @@ description = "lah kok baru sadar?"
 showFullContent = false
 +++
 
-Gw baru sadar, gw introvert. 
+Aku baru sadar, aku introvert. 
 
-Ternyata, gw orangnya minderan. <br>
-Ternyata, gw orangnya ga asik. <br>
-Ternyata, gw kaga punya temen. <br>
+Ternyata, aku orangnya minderan. <br>
+Ternyata, aku orangnya ga asik. <br>
+Ternyata, aku kaga punya temen. <br>
 
-Selama 3 tahun bersekolah ini, belum 3 tahun deng, pokoknya sekarang kelas 9 SMP. Gw baru sadar akan hal itu. Padahal, gw rasa gw dulu percaya diri (banget), punya temen, dan bahkan gw rasa gw dulu bukan introvert.
-Ternyata. Gw salah memahami diri gw sendiri.
+Selama 3 tahun bersekolah ini, belum 3 tahun deng, pokoknya sekarang kelas 9 SMP. aku baru sadar akan hal itu. Padahal, aku rasa aku dulu percaya diri (banget), punya temen, dan bahkan aku rasa aku dulu bukan introvert.
+Ternyata. aku salah memahami diri aku sendiri.
 
-Ya, gw tau introvert itu bukan suatu kekurangan.
-Yang gw masalahin adalah, gw baru sadar akan hal itu. Yang di mana, itu berarti gw dulu ga tahu cara menyikapinya. Alhasil, gw jadi minderan, ga asik kalau diajak ngobrol, dan yaa.. gw kaga punya temen.
+Ya, aku tau introvert itu bukan suatu kekurangan.
+Yang aku masalahin adalah, aku baru sadar akan hal itu. Yang di mana, itu berarti aku dulu ga tahu cara menyikapinya. Alhasil, aku jadi minderan, ga asik kalau diajak ngobrol, dan yaa.. aku ga punya temen.
 
-Gw bersyukur sih, karna gw dulu fokus ngembangin diri, ikut kegiataan yang bermanfaat kayak OSIS, dan gw bersyukur banget memiliki kepintaran yang cukup lebih baik daripada orang lain. 
+aku bersyukur sih, karna aku dulu fokus ngembangin diri, ikut kegiataan yang bermanfaat kayak OSIS, dan aku bersyukur banget memiliki kepintaran yang cukup lebih baik daripada orang lain, bukan lebih baik, tapi tau dan bisa memanfaatkan kepintaranku secara maksimal. 
 
-Memang ya, manusia itu ga ada yang sempurna. Pasti ada aja kekurangannya. Dari segi harta, paras, maupun. 
+Memang ya, manusia itu ga ada yang sempurna. Pasti ada aja kekurangannya. Dari segi harta, paras, maupun kepintaran. 
 
-Terakhir, gw mau ngasih pesan ke diri gw sendiri atau bahkan untuk orang lain.
-Jika lu mengalami masalah di dalam hidup lu, janganlah langsung menyerah. Akan tetapi, carilah solusinya.
-Dan juga, mengetahui diri sendiri itu penting. Supaya lu tau bagaimana cara menyikapi diri lu, dan lu tau bagaimana cara ngembangin diri lu sendiri.
+Terakhir, aku mau ngasih pesan ke diri aku sendiri atau bahkan untuk orang lain.
+Jika kalian mengalami masalah di dalam hidup kalian, janganlah langsung menyerah. Akan tetapi, carilah solusinya.
+Dan juga, mengetahui diri sendiri itu penting. Supaya kalian tau bagaimana cara menyikapi diri kalian, dan kalian tau bagaimana cara ngembangin diri kalian sendiri.
 
-Oh iya, ketika kalian mencari solusi akan masalah hidup kalian. Kalian bisa mencarinya melalui mentoring dengan psikolog. Atau mungkin, bisa curhat ke orang terdekat. Atau bahkan, melalui video. Dan gw me-rekomendasiin channel favorit gw, 1% (Satu Persen)
+Oh iya, ketika kalian mencari solusi akan masalah hidup kalian. Kalian bisa mencarinya melalu konsultasi dengan psikolog. Atau mungkin, bisa curhat ke orang terdekat. Atau bahkan, melalui video. Dan aku me-rekomendasiin channel favoritku, 1% (Satu Persen)
 
-Akhir kata, terima kasih telah membaca. Kalian juga bisa sharing tentang hidup kalian
+Akhir kata, terima kasih telah membaca.
 
-> Bedain nolep ama introvert weiii 
+> Bedain nolep ama introvert weiii <br>
+>
+> Update : <br>
+> Iseng nyoba test MBTI, hasilnya ENFJ-A. Eh ternyata ekstrovert dong ahaha, jadi anggapanku terhadap diriku yang seorang introvert salah, ga sepenuhnya salah sih, soalnya ekstrovert 53% dan introvert 47%. <br>
+> Fun fact, ENFJ termasuk kepribadian yang langka dong ahaha. 3-5% dari seluruh populasi manusia. 
 
 
 
