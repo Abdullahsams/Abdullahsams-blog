@@ -8,11 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-.emoji {
-    font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-  
-}
-
 body {
   margin: 0;
   padding: 0;

@@ -34,7 +34,7 @@ Oh iya, ketika kalian mencari solusi akan masalah hidup kalian. Kalian bisa menc
 
 Akhir kata, terima kasih telah membaca.
 
-> Bedain nolep ama introvert weiii <span class="emoji">:triumph:</span><br>
+> Bedain nolep ama introvert weiii <br>
 >
 > Update : <br>
 > Iseng nyoba test MBTI, hasilnya ENFJ-A. Eh ternyata ekstrovert dong ahaha, jadi anggapanku terhadap diriku yang seorang introvert salah, ga sepenuhnya salah sih, soalnya ekstrovert 53% dan introvert 47%. <br>
