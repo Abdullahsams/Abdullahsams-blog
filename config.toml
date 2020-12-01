@@ -4,7 +4,6 @@ theme = "terminal"
 paginate = 5
 enableEmoji = true
 title = "Abdullahsams :: Just an absurd blog"
-...
 defaultContentLanguage = "en" 
 
 [params]
