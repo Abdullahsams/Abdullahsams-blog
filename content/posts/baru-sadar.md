@@ -16,7 +16,7 @@ Ternyata, aku orangnya minderan. <br>
 Ternyata, aku orangnya ga asik. <br>
 Ternyata, aku kaga punya temen. <br>
 
-Selama 3 tahun bersekolah ini, belum 3 tahun deng, pokoknya sekarang kelas 9 SMP. aku baru sadar akan hal itu. Padahal, aku rasa aku dulu percaya diri (banget), punya temen, dan bahkan aku rasa aku dulu bukan introvert.
+Selama 3 tahun bersekolah ini, belum 3 tahun deng, pokoknya sekarang kelas 3. aku baru sadar akan hal itu. Padahal, aku rasa aku dulu percaya diri (banget), punya temen, dan bahkan aku rasa aku dulu bukan introvert.
 Ternyata. aku salah memahami diri aku sendiri.
 
 Ya, aku tau introvert itu bukan suatu kekurangan.
