@@ -5,6 +5,7 @@ paginate = 5
 enableEmoji = true
 title = "Abdullahsams :: Just an absurd blog"
 defaultContentLanguage = "en" 
+disqusShortname = "abdullahsams"
 
 [params]
   # open graph config
@@ -22,13 +23,13 @@ defaultContentLanguage = "en"
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = false 
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = false 
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
