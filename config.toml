@@ -29,6 +29,7 @@ enableEmoji = true
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  enableGitInfo = true
   showLastUpdated = true
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -37,6 +38,7 @@ enableEmoji = true
   # it's set to `true` by default
   # oneHeadingSize = false
   
+  [params]
   # open graph config
   description = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
   images = ["/img/ogi.jpg"]
@@ -56,7 +58,7 @@ enableEmoji = true
   [languages.en]
     languageName = "English"
     title = "Abdullahsams :: Just an absurd blog"
-    subtitle = "Isinya random, cuman tulisan tulisan dikala gabut"
+    subtitle = ""
     owner = "Sams"
     keywords = "Absurd Blog"
     copyright = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
@@ -95,8 +97,8 @@ enableEmoji = true
     [markup.asciidocExt.attributes]
   [markup.blackFriday]
     angledQuotes = false
-    footnoteAnchorPrefix = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
-    footnoteReturnLinkContents = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
+    footnoteAnchorPrefix = ""
+    footnoteReturnLinkContents = ""
     fractions = true
     hrefTargetBlank = false
     latexDashes = true
