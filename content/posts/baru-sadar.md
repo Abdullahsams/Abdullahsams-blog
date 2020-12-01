@@ -38,7 +38,8 @@ Akhir kata, terima kasih telah membaca.
 >
 > Update : <br>
 > Iseng nyoba test MBTI, hasilnya ENFJ-A. Eh ternyata ekstrovert dong ahaha, jadi anggapanku terhadap diriku yang seorang introvert salah, ga sepenuhnya salah sih, soalnya ekstrovert 53% dan introvert 47%. <br>
-> Fun fact, ENFJ termasuk kepribadian yang langka dong ahaha. 2-5% dari seluruh populasi manusia. 
+> Fun fact, ENFJ termasuk kepribadian yang paling langka dong ahaha. 2-5% dari seluruh populasi manusia. <br>
+> https://id.quora.com/Apa-kepribadian-paling-langka-di-MBTI-dan-yang-paling-banyak-dari-populasi-dunia-Bisakah-Anda-urutkan-16-kepribadian-dari-tingkat-kelangkaannya#:~:text=Kepribadian%20paling%20langka%20di%20MBTI%20adalah%20INFJ%20dimana%20populasi%20nya,11%E2%80%9314%25%20di%20dunia 
 
 
 
