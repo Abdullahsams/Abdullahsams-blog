@@ -8,6 +8,11 @@ tags = ["Introvert", "Baru Sadar"]
 keywords = ["", ""]
 description = "lah kok baru sadar?"
 showFullContent = false
+
+[lua.image]
+url = "/img/barusadar.jpg"
+width = 800
+height = 600
 +++
 
 Aku baru sadar, aku introvert. 
