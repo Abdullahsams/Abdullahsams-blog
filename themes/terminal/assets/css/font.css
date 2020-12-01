@@ -15,3 +15,8 @@
   src: url("../fonts/FiraCode-Bold.woff") format("woff");
   font-display: swap;
 }
+
+.emoji {
+    font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+  
+}
