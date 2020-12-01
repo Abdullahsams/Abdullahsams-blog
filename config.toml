@@ -3,10 +3,14 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 enableEmoji = true
+title = "Abdullahsams :: Just an absurd blog"
+...
+defaultContentLanguage = "en" 
 
 [params]
   # open graph config
-  images = ["/img/ogi.jpg"]
+  description = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut" 
+  images = ["img/ogi.jpg"]
   
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -42,8 +46,8 @@ enableEmoji = true
   # oneHeadingSize = false
   
 
-[taxonomies]
-  series = "series"
+#[taxonomies]
+  #series = "series"
   
 [params.image]
 url = "/img/ogi.jpg"
@@ -60,9 +64,9 @@ height = 600
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Abdullahsams :: Just an absurd blog"
-    subtitle = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
-    images = ["/img/ogi.jpg"]
+    #title = "Abdullahsams :: Just an absurd blog"
+    #subtitle = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
+    #images = ["/img/ogi.jpg"]
     owner = "Sams"
     keywords = "Absurd Blog"
     copyright = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
