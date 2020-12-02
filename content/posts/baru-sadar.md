@@ -19,7 +19,7 @@ Aku baru sadar, aku introvert.
 
 Ternyata, aku orangnya minderan. <br>
 Ternyata, aku orangnya ga asik. <br>
-Ternyata, aku kaga punya temen. <br>
+Ternyata, aku ga punya temen. <br>
 
 Selama 3 tahun bersekolah ini, belum 3 tahun deng, pokoknya sekarang kelas 3. aku baru sadar akan hal itu. Padahal, aku rasa aku dulu percaya diri (banget), punya temen, dan bahkan aku rasa aku dulu bukan introvert.
 Ternyata. aku salah memahami diri aku sendiri.
@@ -35,7 +35,9 @@ Terakhir, aku mau ngasih pesan ke diri aku sendiri atau bahkan untuk orang lain.
 Jika kalian mengalami masalah di dalam hidup kalian, janganlah langsung menyerah. Akan tetapi, carilah solusinya.
 Dan juga, mengetahui diri sendiri itu penting. Supaya kalian tau bagaimana cara menyikapi diri kalian, dan kalian tau bagaimana cara ngembangin diri kalian sendiri.
 
-Oh iya, ketika kalian mencari solusi akan masalah hidup kalian. Kalian bisa mencarinya melalu konsultasi dengan psikolog. Atau mungkin, bisa curhat ke orang terdekat. Atau bahkan, melalui video. Dan aku me-rekomendasiin channel favoritku, 1% (Satu Persen)
+Oh iya, ketika kalian mencari solusi akan masalah hidup kalian. Kalian bisa mencarinya melalui konsultasi dengan psikolog. Atau mungkin, bisa curhat ke orang terdekat. Atau bahkan, melalui video. Dan aku me-rekomendasiin channel favoritku, 1% (Satu Persen)
+
+Target tahun depan, berubah jadi yang lebih baik, menjadi pribadi yang asik, mudah bergaul, dan tentu aja ga minderan lagi. Mangats! 
 
 Akhir kata, terima kasih telah membaca.
 
