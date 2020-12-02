@@ -10,7 +10,7 @@ disqusShortname = "abdullahsams"
 [params]
   # open graph config
   description = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut" 
-  images = ["https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/ogi.jpg"]
+  images = ["/img/ogi.jpg"]
   
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -50,7 +50,7 @@ disqusShortname = "abdullahsams"
   series = "series"
   
 [params.image]
-url = "https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/ogi.jpg"
+url = "/img/ogi.jpg"
 width = 800
 height = 600 
 
