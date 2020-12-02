@@ -9,6 +9,11 @@ keywords = ["", ""]
 description = "cuman perkenalan"
 showFullContent = false
 
+[lua.image]
+url = "/img/kenalin.jpg"
+width = 800
+height = 600
+
 +++
 
 Yo hi, namaku Abdullah. 

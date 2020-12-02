@@ -42,7 +42,10 @@ disqusShortname = "abdullahsams"
   # it's set to `true` by default
   # oneHeadingSize = false
   
-
+[params.image]
+url = "/img/ogi.jpg"
+width = 800
+height = 600 
 
 [params.twitter]
   # set Twitter handles for Twitter cards
