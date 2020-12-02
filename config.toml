@@ -66,6 +66,7 @@ height = 600
     languageName = "English"
     title = "Abdullahsams :: Just an absurd blog"
     subtitle = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
+    images = ["https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/ogi.jpg"]
     owner = "Sams"
     keywords = "Absurd Blog"
     copyright = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
