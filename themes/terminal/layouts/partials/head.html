@@ -51,16 +51,10 @@
 {{ if .Site.Home.Params.image }}
 <meta property="og:image" itemprop="image" content="{{ $.Site.Params.image | absURL }}" />
 {{ end }}
-{{ .Site.Home.Params.image }}
-<meta property="og:image" itemprop="image" content="{{ $.Site.Params.image | absURL }}" />
-{{ end }}
 
 {{ if .Site.Params.image }}
 <meta property="og:image" itemprop="image" content="{{ $.Site.Params.image | absURL }}" />
-{{ end }} 
-{{ .Site.Params.image }}
-<meta property="og:image" itemprop="image" content="{{ $.Site.Params.image | absURL }}" />
-{{ end }} 
+{{ end }}
 
 {{ if and (not .IsHome) (isset .Params "cover") }}
   <meta property="og:image" content="{{ .Param "cover" | absURL }}">
