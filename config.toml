@@ -9,7 +9,7 @@ disqusShortname = "abdullahsams"
 
 [params]
   # open graph config
-  # description = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut" 
+  description = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut" 
   images = ["/img/ogi.jpg"]
   
   # dir name of your main content (default is `content/posts`).
@@ -49,7 +49,7 @@ disqusShortname = "abdullahsams"
 [taxonomies]
   series = "series"
   
-[lua.image]
+[params.image]
 url = "/img/ogi.jpg"
 width = 800
 height = 600 
@@ -64,9 +64,9 @@ height = 600
 [languages]
   [languages.en]
     languageName = "English"
-    #title = "Abdullahsams :: Just an absurd blog"
-    #subtitle = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
-    #images = ["https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/ogi.jpg"]
+    title = "Abdullahsams :: Just an absurd blog"
+    subtitle = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
+    images = ["https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/ogi.jpg"]
     owner = "Sams"
     keywords = "Absurd Blog"
     copyright = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
