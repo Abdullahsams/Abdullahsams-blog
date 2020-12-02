@@ -7,10 +7,6 @@ title = "Abdullahsams :: Just an absurd blog"
 defaultContentLanguage = "en" 
 disqusShortname = "abdullahsams"
 
-[[resources]]
-  name = "coveh"
-  src = "img/ogi.jpg"
-
 [params]
   images = ["/img/ogi.jpg"]
   # dir name of your main content (default is `content/posts`).
