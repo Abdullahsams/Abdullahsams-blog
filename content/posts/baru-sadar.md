@@ -10,7 +10,7 @@ description = "lah kok baru sadar?"
 showFullContent = false
 
 [lua.image]
-url = "/img/barusadar.jpg"
+url = "https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/barusadar.jpg"
 width = 800
 height = 600
 +++

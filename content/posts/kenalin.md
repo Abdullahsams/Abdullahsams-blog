@@ -10,7 +10,7 @@ description = "cuman perkenalan"
 showFullContent = false
 
 [lua.image]
-url = "/img/kenalin.jpg"
+url = "https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/kenalin.jpg"
 width = 800
 height = 600
 +++
