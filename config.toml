@@ -43,13 +43,6 @@ disqusShortname = "abdullahsams"
   # oneHeadingSize = false
   
 
-[taxonomies]
-  series = "series"
-  
-[params.image]
-url = "/img/ogi.jpg"
-width = 800
-height = 600 
 
 [params.twitter]
   # set Twitter handles for Twitter cards
@@ -63,7 +56,6 @@ height = 600
     languageName = "English"
     title = "Abdullahsams :: Just an absurd blog"
     subtitle = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
-    images = ["https://github.com/Abdullahsams/Abdullahsams-blog/blob/main/static/img/ogi.jpg"]
     owner = "Sams"
     keywords = "Absurd Blog"
     copyright = "Isinya random aja sih, cuman tulisan tulisan dikala gabut"
