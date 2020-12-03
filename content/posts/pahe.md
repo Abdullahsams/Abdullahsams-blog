@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = "/img/pahe.jpg"
 tags = ["Hiburan", "Film"]
 keywords = ["", ""]
-description = "Download pirated movies"
+description = "nonton film bajakan"
 showFullContent = false
 +++
 hmm, ntahlah kenapa aku membuat artikel ini, ga pernah terlintas di pikiranku sampe bikin artikel kayak gini. Artikel ini ditunjukkan kepada temanku yang pingin nonton film, bajakan. 
@@ -20,7 +20,7 @@ Tapi yaa, orang Indo itu identik dengan orang yang gemar dengan yang gratisan ah
 Oke langsung aja nih ke pembahasan cara download film bajakan dari pahe.ph, di handphone. 
 
 ## Download Film 
-Pertama, kalian buka website pahe.ph. Sebelumnya, kalian perlu tau nih, kalau film film yang ada di pahe ini softsub, jadi subtitle-nya itu pisah, ga nempel ama filmnya (kalau yang nempel ke film istilahnya tuh hardsub, kayak di anime anime) tapi ada subtitle bawaannya, Bahasa Inggris, kadang juga Bahasa Indonesia. 
+Pertama, kalian buka website https://pahe.ph. Sebelumnya, kalian perlu tau nih, kalau film film yang ada di pahe ini softsub, jadi subtitle-nya itu pisah, ga nempel ama filmnya (kalau yang nempel ke film istilahnya tuh hardsub, kayak di anime anime) tapi ada subtitle bawaannya, Bahasa Inggris, kadang juga Bahasa Indonesia. 
 
 Terus, kalian cari film yang mau kalian download. Pahe ini ada iklannya, kek pas kalian mencet pahe tiba tiba dialihin ke laman lain, terus nyampe ke Lazada ahaha. Kalau kayak gitu, kalian langsung pencet back secepatnya. Nah aku punya cara nih cara terbaik versiku buat nyari film di pahe. Kalian tahu _searchbox_ kan? 
 
@@ -28,7 +28,7 @@ Terus, kalian cari film yang mau kalian download. Pahe ini ada iklannya, kek pas
 
 Searchbox itu pas kalian masukin url/link. Nah terus gimana nih cara nyari filmnya? Kalian pencet searchbox-nya, terus kalian tambahin ke urlnya ?s=nama+film
 
-+ itu buat spasi ya. Semisal nih, aku mau nyari tenet, jadi urlnya kayak gini pahe.ph/?s=tenet
+`+` itu buat spasi ya. Semisal nih, aku mau nyari tenet, jadi urlnya kayak gini https://pahe.ph/?s=tenet
 
 Nah kalian cari aja resolusi yang kalian pingin. 480p cocok buat ditonton di hp, 720p cocok buat ditonton di laptop/komputer, dan 1080p/2060p buat ditonton di tv. 
 Terus kualitasnya, kusaranin webdl/webrip sama bluray. Kalau kalian nonton di tv, kalian pilih yang bluray, karna biasanya ada tv yang ga support webdl/webrip, tapi kalau tv kalian support ga masalah sih, atau ngga kalian nontonnya di smart tv, support webdl/webrip tuh. Kalau yang webdl/webrip ini bisa kalian tonton di handphone atau ngga laptop/komputer. 
