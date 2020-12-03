@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 enableEmoji = true
-title = "Abdullahsams :: Just an absurd blog"
+title = "Abdullahsams Blog"
 defaultContentLanguage = "en" 
 disqusShortname = "abdullahsams"
 
