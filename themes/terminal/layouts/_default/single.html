@@ -53,5 +53,6 @@
   {{ end }}
 
   {{ partial "comments.html" . }}
+  {{ if .Params.redirectURL }}<meta http-equiv="refresh" content="1; url={{ .Params.redirectURL }}"/>{{ end }}
 </div>
 {{ end }}

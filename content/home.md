@@ -2,9 +2,7 @@
 title = "Abdullahsams Blog"
 cover = "/img/ogi.jpg"
 description = "Blog absurd yang isinya random cuman tulisan tulisan dikala gabut"
-aliases = [
-    "abdullahsams.me"
-]
+redirectURL = "https://abdullahsams.me"
 
 [lua.image]
 url = "/img/ogi.jpg"
