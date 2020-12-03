@@ -1,4 +1,4 @@
-baseurl = "https://abdullahsams.me/"
+baseurl = "https://abdullahsams.me/home"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
