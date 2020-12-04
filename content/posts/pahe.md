@@ -8,6 +8,11 @@ tags = ["Hiburan", "Film"]
 keywords = ["", ""]
 description = "nonton film bajakan"
 showFullContent = false
+
+[lua.image]
+url = "/img/pahe.jpg"
+width = 800
+height = 600
 +++
 hmm, ntahlah kenapa aku membuat artikel ini, ga pernah terlintas di pikiranku sampe bikin artikel kayak gini. Artikel ini ditunjukkan kepada temanku yang pingin nonton film, bajakan. 
 
@@ -18,6 +23,13 @@ Sebenernya aku ga merekomendasikan kalian buat nonton atau download film bajakan
 Tapi yaa, orang Indo itu identik dengan orang yang gemar dengan yang gratisan ahaha. 
 
 Oke langsung aja nih ke pembahasan cara download film bajakan dari pahe.ph, di handphone. 
+
+## Kelebihan Pahe 
++ Lengkap (Netflix, HBO, Hulu, Drakor, Drama Jepang, Anime, DLL)
++ Subtitle terpisah (Softsub)
++ Size hemat
++ Encode terbaik! 
++ Gambar bening (banget)
 
 ## Download Film 
 Pertama, kalian buka website [Pahe.ph](https://pahe.ph). Sebelumnya, kalian perlu tau nih, kalau film film yang ada di pahe ini softsub, jadi subtitle-nya itu pisah, ga nempel ama filmnya (kalau yang nempel ke film istilahnya tuh hardsub, kayak di anime anime) tapi ada subtitle bawaannya, Bahasa Inggris, kadang juga Bahasa Indonesia. 
@@ -75,7 +87,7 @@ Titik Tiga => Settings => Privacy and Security => Use secure DNS => Choose anoth
 ## Nonton Film 
 Setelah kalian download film ama sub-nya, kalian bisa nikmatin filmnya deh. 
 
-Kalian pasti bingung gimana cara munculin subtitlen-nya. Sebelumnya, kalian ekstrak dulu subtitlenya (kan bentuknya file compress ya, kek zip, rar) terus download aplikasi mx player. Caranya :
+Kalian pasti bingung gimana cara munculin subtitle-nya. Sebelumnya, kalian ekstrak dulu subtitlenya (kan bentuknya file compress ya, kek zip, rar) terus download aplikasi mx player. Caranya :
 
 Kalian buka filmnya di MX Player => Pencet titik tiga pojok kanan atas => Pencet Subtitle => Pencet Open => Kalian cari subtitle kalian~
 

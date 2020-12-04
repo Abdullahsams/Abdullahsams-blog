@@ -8,4 +8,9 @@ tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
+
+[lua.image]
+url = "/img/"
+width = 800
+height = 600
 +++
