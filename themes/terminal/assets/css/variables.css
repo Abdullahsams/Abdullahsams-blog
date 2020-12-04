@@ -1,6 +1,6 @@
 :root {
   --accent: #FFA86A;
-  --background: color-mod(var(--accent) blend(#edeffa 98%));
+  --background: color-mod(var(--accent) blend(#fff 98%));
   --color: white;
   --border-color: rgba(255, 255, 255, .1);
 
