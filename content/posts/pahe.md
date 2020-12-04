@@ -20,8 +20,7 @@ Tapi yaa, orang Indo itu identik dengan orang yang gemar dengan yang gratisan ah
 Oke langsung aja nih ke pembahasan cara download film bajakan dari pahe.ph, di handphone. 
 
 ## Download Film 
-Pertama, kalian buka website https://pahe.ph<br>
-Sebelumnya, kalian perlu tau nih, kalau film film yang ada di pahe ini softsub, jadi subtitle-nya itu pisah, ga nempel ama filmnya (kalau yang nempel ke film istilahnya tuh hardsub, kayak di anime anime) tapi ada subtitle bawaannya, Bahasa Inggris, kadang juga Bahasa Indonesia. 
+Pertama, kalian buka website [Pahe.ph](https://pahe.ph). Sebelumnya, kalian perlu tau nih, kalau film film yang ada di pahe ini softsub, jadi subtitle-nya itu pisah, ga nempel ama filmnya (kalau yang nempel ke film istilahnya tuh hardsub, kayak di anime anime) tapi ada subtitle bawaannya, Bahasa Inggris, kadang juga Bahasa Indonesia. 
 
 Terus, kalian cari film yang mau kalian download. Pahe ini ada iklannya, kek pas kalian mencet pahe tiba tiba dialihin ke laman lain, terus nyampe ke Lazada ahaha. Kalau kayak gitu, kalian langsung pencet back secepatnya. Nah aku punya cara nih cara terbaik versiku buat nyari film di pahe. Kalian tahu _searchbox_ kan? 
 
@@ -39,8 +38,7 @@ Ketiga. Kan kalian udah nemu film yang mau kalian download nih. Sekarang waktuny
 Keempat. Kalian pilih deh mau download dari mana, rekomendasiku itu GD (Google Drive), MG (Mega), UTB (Uptobox). Nah kan pembahasan kali ini itu download gunain kuota kemendikbud, maka kita downloadnya harus dari GD. Tapi sebelumnya, aku saranin jangan download dari GD punya pahe, karna menurutku kurang efektif dan banyak link GD yang mati. Cara yang aku saranin adalah, kalian mirror link UTB ke GD (atau bisa disebut convert). Jadi kalian pencet itu tombol UTB, terus pas udah di Uptobox-nya, kalian copy link/urlnya. 
 
 ### Tips: Mirror UTB ke GD
-Punya telegram kan? gabung https://t.me/WinTenMirror
-<br>Setelah masuk kalian bisa check dulu apakah film yang mau kalian download udah ada yang pernah mirror belum. dengan cara ketik **/list judul film**
+Punya telegram kan? gabung [WinTenMirror](https://t.me/WinTenMirror). Setelah masuk kalian bisa check dulu apakah film yang mau kalian download udah ada yang pernah mirror belum. dengan cara ketik **/list judul film**
 
 Kalau ga ada, kalian bisa mirror dengan cara ketik **/mirror linkutbyangkaliancopy**. 
 
