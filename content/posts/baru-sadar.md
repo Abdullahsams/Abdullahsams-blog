@@ -39,7 +39,7 @@ Oh iya, ketika kalian mencari solusi akan masalah hidup kalian. Kalian bisa menc
 
 Target tahun depan, berubah jadi yang lebih baik, menjadi pribadi yang asik, mudah bergaul, dan tentu aja ga minderan lagi. Mangats! 
 
-we iya, keknya aku punya temen. Akbar, Dicky, Nabil, Yerikho, mungkin Afi, tapi ntahlah, ga kuanggep temen si Afi, emang bukan temen sih. ahaha
+we iya, keknya aku punya temen. Akbar, Dicky, Nabil, Mahda, Yerikho, mungkin Afi, tapi ntahlah, ga kuanggep temen si Afi, emang bukan temen sih. ahaha
 
 Afi itu si Afifah. 
 
@@ -49,7 +49,7 @@ Akhir kata, terima kasih telah membaca.
 >
 > Update : <br>
 > Iseng nyoba test MBTI, hasilnya ENFJ-A. Eh ternyata ekstrovert dong, jadi anggapanku terhadap diriku yang seorang introvert salah, ga sepenuhnya salah sih, soalnya ekstrovert 53% dan introvert 47%. Terus katanya ENFJ ini ekstrovert yang paling beda dengan ekstrovert ekstrovert yang lain, kayak lebih mirip introvert gitu. <br>
-> Fun fact, ENFJ termasuk kepribadian yang paling langka dong ahaha. 2-5% dari seluruh populasi manusia. <br>
+> Fun fact, ENFJ termasuk kepribadian yang paling langka ahaha. 2-5% dari seluruh populasi manusia. <br>
 > https://id.quora.com/Apa-kepribadian-paling-langka-di-MBTI-dan-yang-paling-banyak-dari-populasi-dunia-Bisakah-Anda-urutkan-16-kepribadian-dari-tingkat-kelangkaannya
 
 
