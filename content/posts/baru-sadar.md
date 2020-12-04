@@ -27,7 +27,7 @@ Ternyata. aku salah memahami diri aku sendiri.
 Ya, aku tau introvert itu bukan suatu kekurangan.
 Yang aku masalahin adalah, aku baru sadar akan hal itu. Yang di mana, itu berarti aku dulu ga tahu cara menyikapinya. Alhasil, aku jadi minderan, ga asik kalau diajak ngobrol, dan yaa.. aku ga punya temen.
 
-aku bersyukur sih, karna aku dulu fokus ngembangin diri, ikut kegiataan yang bermanfaat kayak OSIS, dan aku bersyukur banget memiliki kepintaran yang cukup lebih baik daripada orang lain (sombong amat!), bukan lebih baik, tapi tau dan bisa memanfaatkan kepintaranku secara maksimal. 
+aku bersyukur sih, karna aku dulu fokus ngembangin diri, ikut kegiataan yang bermanfaat kayak OSIS, dan aku bersyukur banget memiliki kepintaran yang cukup lebih baik daripada orang lain (sombong amat!), bukan lebih baik, tapi tau dan bisa memanfaatkan kepintaranku secara maksimal. **Gagagaga, kepintaranku biasa aja sih.** 
 
 Memang ya, manusia itu ga ada yang sempurna. Pasti ada aja kekurangannya. Dari segi harta, paras, maupun kepintaran. 
 
