@@ -1,28 +1,3 @@
-<!-- Inspired by https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/
-
-    This paginator prints the first and last page number along with a configurable number of adjacent pages (see
-    $adjacent_links).
-
-        e.g. [1] ... [4] [5] [*6*] [7] [8] ... [12]
-
-    Rather than including "First" and "Last" links, including the page number of the first and last pages gives the
-    user some context into how far they've gone into the page list. With that info they can make better decisions about
-    whether or not to continue.
-
-    "Previous" and "Next" links are included even though the adjacent page numbers seemingly make them redundant. As
-    these are the most common paging actions (and often clicked repeatedly) we want them at the same location on each
-    page.
-
-    Additionally, if the user is on one of the first few pages (see $lower_limit) more pages are printed after the
-    current page.
-
-        e.g. [1] [*2*] [3] [4] [5] ... [12]
-
-    Similarly, if the user is on one of the last few pages (see $upper_limit) more pages are printed before the
-    current page.
-
-        e.g. [1] ... [8] [9] [10] [*11*] [12]
--->
 {{ $paginator := .Paginator }}
 
 <!-- Number of links either side of the current page -->
@@ -82,14 +57,10 @@
 
         {{ if $paginator.HasPrev }}
             <a class="pagination-previous" href="{{ $paginator.Prev.URL }}">Previous</a>
-        {{ else }}
-            <a class="pagination-previous" title="On first page" disabled>Previous</a>
         {{ end }}
 
         {{ if $paginator.HasNext }}
             <a class="pagination-next button is-link" href="{{ $paginator.Next.URL }}">Next page</a>
-        {{ else }}
-            <a class="pagination-next" title="On last page" disabled>Next page</a>
         {{ end }}
 
         <ul class="pagination-list">
@@ -99,7 +70,7 @@
             <!-- Include first, last, and middle pages -->
             {{ if or (or (eq .PageNumber 1) (eq .PageNumber $paginator.TotalPages)) (and (ge .PageNumber $lower_limit) (le .PageNumber $upper_limit)) }}
 
-                <li><a href="{{ .URL }}" class="pagination-link{{ if eq $paginator.PageNumber .PageNumber }} is-current{{ end }}">{{ .PageNumber }}</a></li>
+                <li><a href="{{ .RelPermalink }}" class="pagination-link{{ if eq $paginator.PageNumber .PageNumber }} is-current{{ end }}">{{ .PageNumber }}</a></li>
 
                 <!-- If we're on the first page and inserting an ellipsis, or just before the last page and inserting an ellipsis -->
                 {{ if or (and (eq .PageNumber 1) (eq $include_lower_ellipsis true)) (and (eq .PageNumber $upper_limit) (eq $include_upper_ellipsis true)) }}
