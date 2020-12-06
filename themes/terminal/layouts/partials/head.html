@@ -11,7 +11,6 @@
 <link rel="stylesheet" href="{{ "assets/style.css" | absURL }}">
 
 <!-- Bulma CSS -->
-<link rel="stylesheet" href="{{ "assets/bulma.min.css" | absURL }}">
 {{ if (isset .Params "color") }}
   <link rel="stylesheet" href="{{ (printf "assets/%s.css" .Params.color) | absURL }}">
 {{ else if and (ne $.Site.Params.ThemeColor "orange") (ne $.Site.Params.ThemeColor "color" "") }}
