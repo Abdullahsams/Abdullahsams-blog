@@ -7,7 +7,7 @@
 @import 'logo.css';
 @import 'main.css';
 @import 'post.css';
-@import 'pagination.css';
+@import 'bulma.min.css';
 @import 'footer.css';
 
 @import 'prism.css';
