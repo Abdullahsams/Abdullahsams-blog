@@ -45,6 +45,9 @@ canonifyURLs = true
   # it's set to `true` by default
   # oneHeadingSize = false
   
+[permalinks]
+    post = "/blog/:title/"  
+  
 [params.image]
 url = "/img/ogi.jpg"
 width = 800
