@@ -11,6 +11,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
+  author = "Sams"
   images = ["/img/ogi.jpg"]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -73,7 +74,7 @@ height = 600
     readOtherPosts = "Tertarik tulisan lain? "
     missingContentMessage = "Yahh, halaman tidak ada:("
     missingBackButtonLabel = "Balik ke beranda"
-
+    
     [languages.en.params.logo]
       logoText = "Abdullahsams Blog"
       logoHomeLink = "/"
