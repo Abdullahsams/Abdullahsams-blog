@@ -8,6 +8,7 @@ defaultContentLanguage = "en"
 disqusShortname = "abdullahsams"
 
 enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   images = ["/img/ogi.jpg"]
@@ -83,6 +84,11 @@ height = 600
         #identifier = "showcase"
         #name = "Showcase"
         #url = "/showcase"
+        
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5        
 
 [markup]
   defaultMarkdownHandler = "goldmark"
