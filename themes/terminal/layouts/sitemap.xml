@@ -18,7 +18,6 @@
                 hreflang="{{ .Lang }}"
                 href="{{ .Permalink }}"
                 />{{ end }}
-                <lastmod>
   </url>
   {{ end }}
   {{ end }}
