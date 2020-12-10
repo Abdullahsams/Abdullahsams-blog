@@ -110,3 +110,10 @@ Kalian buka filmnya di MX Player => Pencet HW di panel atas => Pilih SW Decoder~
 ## Kuota Reguler Kesedot? 
 Jawabannya, gak. 
 
+Dengan syarat, downloadnya harus dari Google Drive. Pokoknya Google Drive, ga bisa yang lain. 
+
+Bukti, 
+
+![kuota awal](/img/bukti1.jpg)
+
+![kuota akhir](/img/bukti2.jpg)

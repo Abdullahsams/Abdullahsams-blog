@@ -23,7 +23,7 @@ Untuk saat ini pengen banget belajar OSINT ama UI/UX design, kalau ga ya belajar
 
 Sebenernya hobinya masih banyak, nih
 
-![hobbies](/img/0.png)
+![hobbies](/img/0.jpg)
 
 
 
