@@ -9,6 +9,7 @@ disqusShortname = "abdullahsams"
 
 enableRobotsTXT = true
 canonifyURLs = true
+googleAnalytics = "G-BQ3Q2PXD7N"
 
 [params]
   author = "Sams"
