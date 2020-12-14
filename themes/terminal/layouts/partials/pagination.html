@@ -52,29 +52,29 @@
 
 <!-- If there's more than one page -->
 {{ if gt $paginator.TotalPages 1 }}
-<section class="section">
-    <nav class="pagination is-centered">
+<section class="sectionh">
+    <nav class="paginationh is-centeredh">
 
         {{ if $paginator.HasPrev }}
-            <a class="pagination-previous" href="{{ $paginator.Prev.URL }}">Previous</a>
+            <a class="pagination-previoush" href="{{ $paginator.Prev.URL }}">Previous</a>
         {{ end }}
 
         {{ if $paginator.HasNext }}
-            <a class="pagination-next button is-link" href="{{ $paginator.Next.URL }}">Next page</a>
+            <a class="pagination-nexth buttonh is-linkh" href="{{ $paginator.Next.URL }}">Next page</a>
         {{ end }}
 
-        <ul class="pagination-list">
+        <ul class="pagination-listh">
 
         {{ range $paginator.Pagers }}
 
             <!-- Include first, last, and middle pages -->
             {{ if or (or (eq .PageNumber 1) (eq .PageNumber $paginator.TotalPages)) (and (ge .PageNumber $lower_limit) (le .PageNumber $upper_limit)) }}
 
-                <li><a href="{{ .URL }}" class="pagination-link{{ if eq $paginator.PageNumber .PageNumber }} is-current{{ end }}">{{ .PageNumber }}</a></li>
+                <li><a href="{{ .URL }}" class="pagination-linkh{{ if eq $paginator.PageNumber .PageNumber }} is-currenth{{ end }}">{{ .PageNumber }}</a></li>
 
                 <!-- If we're on the first page and inserting an ellipsis, or just before the last page and inserting an ellipsis -->
                 {{ if or (and (eq .PageNumber 1) (eq $include_lower_ellipsis true)) (and (eq .PageNumber $upper_limit) (eq $include_upper_ellipsis true)) }}
-                    <li><span class="pagination-ellipsis">&hellip;</span></li>
+                    <li><span class="pagination-ellipsish">&hellip;</span></li>
                 {{ end }}
 
             {{ end }}
