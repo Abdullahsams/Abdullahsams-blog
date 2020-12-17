@@ -1,6 +1,7 @@
 +++
 title = "Tentang"
 showFullContent = true
+description = "siapakah Abdullahsams?"
 +++
 
 <h1 align=center ">Who are you ⁉️</h1>
