@@ -25,9 +25,9 @@ Sebenernya hobinya masih banyak, nih
 
 ![hobbies](/img/0.jpg)
 
-> **Facebook**: [Abdullahsams](https://www.facebook.com/profile.php?id=100020312192396)
-> **Instagram**: [@abdullahsamss](https://instagram.com/abdullahsamss)
-> **Github**: [Abdullahsams](https://github.com/Abdullahsams)
+> **Facebook**: [Abdullahsams](https://www.facebook.com/profile.php?id=100020312192396) <br>
+> **Instagram**: [@abdullahsamss](https://instagram.com/abdullahsamss) <br>
+> **Github**: [Abdullahsams](https://github.com/Abdullahsams) <br>
 
 
 
