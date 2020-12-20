@@ -1,7 +1,7 @@
 baseurl = "https://abdullahsams.me/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 2
+paginate = 6
 enableEmoji = true
 title = "Abdullahsams Blog"
 defaultContentLanguage = "en" 
@@ -9,11 +9,12 @@ disqusShortname = "abdullahsams"
 
 enableRobotsTXT = true
 canonifyURLs = true
-googleAnalytics = "UA-185376220"
+googleAnalytics = "G-BQ3Q2PXD7N"
 
 [params]
   author = "Sams"
   images = ["/img/ogi.jpg"]
+  env = "PUBLIC"
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
