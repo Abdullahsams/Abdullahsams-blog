@@ -117,3 +117,6 @@ Bukti,
 ![kuota awal](/img/bukti1.jpg)
 
 ![kuota akhir](/img/bukti2.jpg)
+
+Tapi, untuk jaga jaga, pastikan kuota reguler kalian sudah habis. 
+Untuk tethering sendiri, ga masalah. Aku selalu tethering dari hp xiaomi ke hp fujitsu ini, terkadang menggunakan Mi-fi. 
