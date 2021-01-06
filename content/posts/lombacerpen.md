@@ -28,7 +28,7 @@ Kalian boleh memberikan kritik atau bahkan saran hal yang bisa diperbaiki dari c
 
 Sebelumnya, terimakasih telah membaca :) 
 
-====================================================
+==========================================
 <h2 align="center">Menghindari Uang Palsu</h2>
 
 Irfan, dia adalah teman dekatku. Dia mengirim pesan kepadaku melalui WhatsApp, dalam pesan 
