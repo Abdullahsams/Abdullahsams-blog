@@ -28,7 +28,7 @@ Sebenernya hobinya masih banyak, nih
 > **Facebook**: [Abdullahsams](https://www.facebook.com/profile.php?id=100020312192396) <br>
 > **Instagram**: [@abdullahsamss](https://instagram.com/abdullahsamss) <br>
 > **Github**: [Abdullahsams](https://github.com/Abdullahsams) <br>
-> **Telegram**: [ciko](t.me/checksoundtest)
+> **Telegram**: [ciko](https://t.me/checksoundtest)
 
 
 
