@@ -31,9 +31,7 @@ Sebelumnya, terimakasih telah membaca :)
 ==========================================
 <h2 align="center">Menghindari Uang Palsu</h2>
 
-Irfan, dia adalah teman dekatku. Dia mengirim pesan kepadaku melalui WhatsApp, dalam pesan 
-
-tersebut dia memberitakan bahwa beberapa hari yang lalu, terjadi tindak kejahatan terkait uang palsu.
+Irfan, dia adalah teman dekatku. Dia mengirim pesan kepadaku melalui WhatsApp, dalam pesan tersebut dia memberitakan bahwa beberapa hari yang lalu, terjadi tindak kejahatan terkait uang palsu.
 
 “Lu tau ga? Bulan November kemarin, ada kejahatan setor uang palsu via ATM.” Ujar Irfan
 
