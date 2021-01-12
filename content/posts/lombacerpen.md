@@ -3,14 +3,14 @@ title = "Lomba Cerpen"
 date = "2021-01-06T16:24:44Z"
 author = "Sams"
 authorTwitter = "" #do not include @
-cover = "/img/lombacerpen.jpg"
+cover = "/img/lombacerpen.wp2"
 tags = ["cerpen", "lomba"]
 keywords = ["cerpen", "lomba"]
 description = "pen majang cerpen hasil lomba doang, tapi cuman dapet posisi lima"
 showFullContent = false
 
 [lua.image]
-url = "/img/lombacerpen.jpg"
+url = "/img/lombacerpen.wp2"
 width = 800
 height = 600
 +++
@@ -18,7 +18,7 @@ Ini merupakan cerpen yang ku tulis buat lomba yang diadain GENBI UNAIR. Yaa wala
 
 Buat lomba ini sih, diriku ga terlalu berekspektasi bakal menang apa ga, eh ternyata dapet posisi 6, atau bisa dikatakan posisi 5 karna nilainya sama. 
 
-![nilai](/img/nilaicerpen.jpg)
+![nilai](/img/nilaicerpen.wp2)
 
 Ada hal yang kusayangkan dari lomba cerpen tersebut, ketika setelah diumumkannya pemenang lomba, kita tidak dapat melihat naskah cerpen mereka. Padahal kan, dari cerpen mereka kita bisa tau gaya bahasanya, bagaimana cerpen yang mereka buat, bisa juga loh buat evaluasi cerpenku, itu sih yang aku sayangkan. 
 

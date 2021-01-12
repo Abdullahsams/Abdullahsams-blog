@@ -3,14 +3,14 @@ title = "Kenalin"
 date = "2020-10-05T16:04:15Z"
 author = "Sams"
 authorTwitter = "" #do not include @
-cover = "/img/kenalin.jpg"
+cover = "/img/kenalin.wp2"
 tags = ["Kenalin"]
 keywords = ["", ""]
 description = "cuman perkenalan"
 showFullContent = false
 
 [lua.image]
-url = "/img/kenalin.jpg"
+url = "/img/kenalin.wp2"
 width = 800
 height = 600
 
