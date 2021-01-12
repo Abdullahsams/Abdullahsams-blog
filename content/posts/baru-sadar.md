@@ -3,14 +3,14 @@ title = "Baru Sadar"
 date = "2020-11-29T11:33:05Z"
 author = "Sams"
 authorTwitter = "" #do not include @
-cover = "/img/barusadar.wp2"
+cover = "/img/barusadar.jpg"
 tags = ["Introvert", "Baru Sadar"]
 keywords = ["", ""]
 description = "lah kok baru sadar?"
 showFullContent = false
 
 [lua.image]
-url = "/img/barusadar.wp2"
+url = "/img/barusadar.jpg"
 width = 800
 height = 600
 +++

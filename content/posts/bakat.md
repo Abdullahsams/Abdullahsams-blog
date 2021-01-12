@@ -3,14 +3,14 @@ title = "Bakat"
 date = "2020-12-27T08:59:43Z"
 author = "Sams"
 authorTwitter = "" #do not include @
-cover = "/img/bakat.wp2"
+cover = "/img/bakat.jpg"
 tags = ["Dilema", "Bakat", "Tujuan Hidup"]
 keywords = ["", ""]
 description = "dilema tujuan hidup, minat, bakat, dan passion"
 showFullContent = false
 
 [lua.image]
-url = "/img/bakat.wp2"
+url = "/img/bakat.jpg"
 width = 800
 height = 600
 +++

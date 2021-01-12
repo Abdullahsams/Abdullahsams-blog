@@ -3,14 +3,14 @@ title = "Pahe"
 date = "2020-12-03T15:37:25Z"
 author = "Sams"
 authorTwitter = "" #do not include @
-cover = "/img/pahe.wp2"
+cover = "/img/pahe.jpg"
 tags = ["Hiburan", "Film"]
 keywords = ["", ""]
 description = "nonton film bajakan"
 showFullContent = false
 
 [lua.image]
-url = "/img/pahe.wp2"
+url = "/img/pahe.jpg"
 width = 800
 height = 600
 +++
