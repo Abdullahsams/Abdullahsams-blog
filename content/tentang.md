@@ -3,7 +3,7 @@ title = "Tentang"
 showFullContent = true
 description = "siapakah Abdullahsams?"
 
-redirectURL = "https://abdullahsams.me/posts/kenalin"
+redirectURL = "/posts/kenalin"
 +++
 
 <h1 align=center ">Who are you ⁉️</h1>
