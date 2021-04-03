@@ -33,7 +33,7 @@ C. Mengikuti dan melaksanakan ajaran Rasulallah<br><br>
 4. Sebesar 10% dari hasil pertanian sesuai dengan ketentuan untuk sawah yang memanfaatkan air hujan sebagai sumber air, dalam hal ini jumlahnya sebesar 150 kg<br><br>
 5. Demak merupakan kerajaan Islam pertama di Pulau Jawa. Di samping sebagai pusat pemerintahan, demak sekaligus pusat penyebaran agama Islam di Pulau Jawa. Salah satu rintangan para wali adalah masih kuatnya pengaruh Hindu dan Buddha di Demak pada waktu itu. Pada akhirnya Islam dapat diterima melalui pendekatan dengan dakwah melalui adat atau budaya yang ada. Untuk itu setiap tanggal 10 dzulhijjah Umat Islam memperingati Hari Raya Idul Adha dengan melaksanakan sholat Ied, penyembelihan hewan kemudian dilanjutkan dengan Grebeg Besar Demak. Pada waktu itu, di Masjid Agunh Demak diselenggarakan keramaian yang disisipi syair syair Islam<br>
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[B. Inggris]</b></summary>
@@ -44,68 +44,68 @@ C. Mengikuti dan melaksanakan ajaran Rasulallah<br><br>
 4. Salt water, fresh water, tropical seas, and icy waters near the south and north poles<br><br>
 5. Jellyfish
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[PPKN]</b></summary>
 <br>
 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[Seni Budaya]</b></summary>
 <br>
 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[Prakarya]</b></summary>
 <br>
 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[B. Indonesia]</b></summary>
 <br>
 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[IPS]</b></summary>
 <br>
 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[IPA]</b></summary>
 <br>
 belum, pasti segera diupdate apabila sudah selesai. 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[BTQ]</b></summary>
 <br>
 belum, pasti segera diupdate apabila sudah selesai. 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[B. Jawa]</b></summary>
 <br>
 belum, pasti segera diupdate apabila sudah selesai. 
 </details>
-<br>
+<br><hr>
 
 <details>
 <summary><b>[PJOK]</b></summary>
 <br>
 belum, pasti segera diupdate apabila sudah selesai. 
 </details>
-<br>
-untuk jawaban uraian Matematika, silahkan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a>
+<br><hr>
+untuk jawaban uraian Matematika, silahkan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a><br>
