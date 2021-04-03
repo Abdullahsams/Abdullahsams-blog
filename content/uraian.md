@@ -16,8 +16,9 @@ height = 600
 +++
 > Correct Me If I'm Wrong<br>
 > Koreksi jika ada yang salah<br><br>
-> Berasal dari dua sumber yaitu Buku Paket dan Internet, dengan perbaikan diksi<br>
-> Maaf atas penggunaan kata yang cukup jelek
+> Berasal dari dua sumber yaitu Buku Paket dan Internet, dengan perbaikan diksi.<br>
+> Disarankan untuk tidak terlalu sama, apabila menyontoh.<br>
+> Maaf atas penggunaan kata yang cukup jelek.
 
 <details>
 <summary><b>[PAI]</b></summary>
@@ -83,7 +84,42 @@ Teori kedaulatan rakyat adalah teori yang beranggapan bahwa kekuasaan tertinggi 
 <details>
 <summary><b>[Seni Budaya]</b></summary>
 <br>
-
+1. Lima alat musik ritmis, antara lain :<br>
+A. Konga<br>
+B. Marakas<br>
+C. Tamborin<br>
+D. Drum<br>
+E. Triangle<br><br>
+2. Ciri ciri musik pop, yaitu :<br>
+A. Memiliki melodi yang mudah dicerna<br>
+B. Memiliki lirik dengan kata-kata sederhana dan mudah dipahami<br>
+C. Memiliki harmoni yang tidak terlalu rumit, namun memiliki tempo yang cukup bervariasi<br>
+D. Alat musik yang biasanya digunakan untuk jenis musik pop antara lain gitar, bass, piano, drum dan keyboard<br><br>
+3. Lima tema dalam karya seni rupa murni, yaitu :<br>
+A. Hubungan manusia dengan dirinya<br>
+B. Hubungan manusia dengan manusia lain<br>
+C. Hubungan manusia dengan alam sekitar<br>
+D. Hubungan manusia dengan aktifitasnya <br>
+E. Hubungan manusia dengan imajinasinya<br><br>
+4. Lima teknik dalam membuat patung, yaideng<br>
+A. Teknik pahat, yaitu mengurangi bahan menggunakan alat pahat<br>
+B. Teknik butsir, yaitu membentuk benda dengan mengurangi dan menambah benda<br>
+C. Teknik cor, yaitu membuat karya seni dengan membuat alat cetakan, kemudian dituangkan bahan berupa semen, gips, dan bahan sebagainya sehingga menghasilkan bentuk yang diinginkan<br>
+D. Teknik cetak, yaitu membuat karya seni dengan cara membuat cetakan terlebih dahulu<br>
+E. Teknik Assembling (merakit) adalah membuat sambungan dari beberapa material seperti besi, logam, kertas, kayu maupun tekstil. Bisa disambung dengan cara las listrik atau dengan lem untuk mendapatkan bentuk tertentu<br><br>
+5. Lima bahan alam dan buatan dalam membuat seni grafis cetak tinggi, antara lain :<br><br>
+Bahan alam,<br>
+A. Batang daun pisang<br>
+B. Kulit pohon<br>
+C. Daun<br>
+D. Buah <br>
+E. Kayu<br><br>
+Bahan buatan,<br>
+A. Aluminium <br>
+B. Cat minyak<br>
+C. Tinta<br>
+D. Kertas karton <br>
+E. Kertas gambar<br><br>
 </details>
 <br><hr>
 
