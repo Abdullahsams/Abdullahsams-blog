@@ -171,4 +171,4 @@ belum ujian, pasti segera diupdate apabila sudah selesai.
 belum ujian, pasti segera diupdate apabila sudah selesai. 
 </details>
 <br><hr>
-untuk jawaban uraian Matematika, ~~silahkan~~ jangan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a><br>
+untuk jawaban uraian Matematika, <strike>silahkan</strike> jangan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a><br>
