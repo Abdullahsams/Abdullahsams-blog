@@ -3,14 +3,14 @@ title = "Uraian"
 date = "2021-04-03T13:13:46Z"
 author = "Sams"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "/img/uraian.jpg"
 tags = ["Ujian Sekolah"]
 keywords = ["", ""]
 description = "uraian ujian sekolah untuk teman teman"
 showFullContent = false
 
 [lua.image]
-url = "/img/"
+url = "/img/uraian.jpg"
 width = 800
 height = 600
 +++
@@ -46,4 +46,66 @@ C. Mengikuti dan melaksanakan ajaran Rasulallah<br><br>
 </details>
 <br>
 
+<details>
+<summary><b>[PPKN]</b></summary>
+<br>
+
+</details>
+<br>
+
+<details>
+<summary><b>[Seni Budaya]</b></summary>
+<br>
+
+</details>
+<br>
+
+<details>
+<summary><b>[Prakarya]</b></summary>
+<br>
+
+</details>
+<br>
+
+<details>
+<summary><b>[B. Indonesia]</b></summary>
+<br>
+
+</details>
+<br>
+
+<details>
+<summary><b>[IPS]</b></summary>
+<br>
+
+</details>
+<br>
+
+<details>
+<summary><b>[IPA]</b></summary>
+<br>
+belum, pasti segera diupdate apabila sudah selesai. 
+</details>
+<br>
+
+<details>
+<summary><b>[BTQ]</b></summary>
+<br>
+belum, pasti segera diupdate apabila sudah selesai. 
+</details>
+<br>
+
+<details>
+<summary><b>[B. Jawa]</b></summary>
+<br>
+belum, pasti segera diupdate apabila sudah selesai. 
+</details>
+<br>
+
+<details>
+<summary><b>[PJOK]</b></summary>
+<br>
+belum, pasti segera diupdate apabila sudah selesai. 
+</details>
+<br>
 untuk jawaban uraian Matematika, silahkan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a>
