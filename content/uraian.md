@@ -59,13 +59,13 @@ D. Musyawarah<br>
 E. Keadilan rakyat<br><br>
 2. Empat pokok pikiran pembukaaan UUD 1945, yaitu :<br>
 A. Pokok pikiran pertama, negara melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia dengan berdasar atas persatuan<br>
-Pokok pikiran pertama menegaskan bahwa negara mengatasi segala macam paham golongan dan paham individualistis, serta penyelenggara negara dan setiap warga negara wajib mengutamakan kepentingan negara di atas kepentingan golongan atau individu<br><br>
+  Pokok pikiran pertama menegaskan bahwa negara mengatasi segala macam paham golongan dan paham individualistis, serta penyelenggara negara dan setiap warga negara wajib mengutamakan kepentingan negara di atas kepentingan golongan atau individu<br><br>
 B. Pokok pikiran kedua, negara hendak mewujudkan keadilan sosial bagi seluruh rakyat Indonesia<br>
-Pokok pikiran kedua memiliki makna bahwasanya penyelenggara negara dapat menentukan jalan serta aturan yang harus dilaksanakan menurut Undang Undang Dasar untuk mencapai tujuan memajukan kesejahteraan umum yang berkeadilan<br><br>
+  Pokok pikiran kedua memiliki makna bahwasanya penyelenggara negara dapat menentukan jalan serta aturan yang harus dilaksanakan menurut Undang Undang Dasar untuk mencapai tujuan memajukan kesejahteraan umum yang berkeadilan<br><br>
 C. Pokok pikiran ketiga, negara yang berkedaulatan rakyat, berdasarkan atas kerakyatan dan permusyawaratan/perwakilan<br>
-Pokok pikiran ketiga menyatakan bahwa kedaulatan berada di tangan masyarakat. Serta pokok pikiran ini sesuai dengan masyarakat Indonesia yang mengedepankan musyawarah untuk mufakat dalam penyelesaian masalah<br><br>
+  Pokok pikiran ketiga menyatakan bahwa kedaulatan berada di tangan masyarakat. Serta pokok pikiran ini sesuai dengan masyarakat Indonesia yang mengedepankan musyawarah untuk mufakat dalam penyelesaian masalah<br><br>
 D. Pokok pikiran keempat, negara berdasarkan atas Ketuhanan Yang Maha Esa, menurut dasar kemanusiaan yang adil dan beradab<br>
-Pokok pikiran keempat menegaskan ketakwaan terhadap tuhan, serta menjunjung tinggi martabat manusia atau nilai kemanusiaan yang luhur<br><br>
+  Pokok pikiran keempat menegaskan ketakwaan terhadap tuhan, serta menjunjung tinggi martabat manusia atau nilai kemanusiaan yang luhur<br><br>
 3. Empat pengertian teori kedaulatan, yaitu :<br>
 A. Teori Kedaulatan Tuhan<br>
 Teori kedaulatan Tuhan merupakan teori kedaulatan yang mengajarkan bahwa negara atau pemerintah mendapat kekuasaan tertinggi dari Tuhan, kekuasaan yang berasal dari Tuhan itu diberikan kepada tokoh tokoh terpilih yang menjadi pemimpin negara dan berperan selaku wakil Tuhan di dunia<br><br>
