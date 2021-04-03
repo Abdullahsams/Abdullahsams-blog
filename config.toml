@@ -87,10 +87,10 @@ height = 600
         identifier = "tentang"
         name = "Tentang"
         url = "/tentang"
-      #[[languages.en.menu.main]]
-        #identifier = "showcase"
-        #name = "Showcase"
-        #url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "beranda"
+        name = "Beranda"
+        url = "/"
         
 [sitemap]
   changefreq = "monthly"
