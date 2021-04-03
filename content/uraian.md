@@ -14,7 +14,7 @@ url = "/img/"
 width = 800
 height = 600
 +++
-> Correct Me If I'm Wrong 
+> Correct Me If I'm Wrong<br>
 > Koreksi jika ada yang salah
 
 <details>
@@ -33,15 +33,17 @@ C. Mengikuti dan melaksanakan ajaran Rasulallah<br><br>
 4. Sebesar 10% dari hasil pertanian sesuai dengan ketentuan untuk sawah yang memanfaatkan air hujan sebagai sumber air, dalam hal ini jumlahnya sebesar 150 kg<br><br>
 5. Demak merupakan kerajaan Islam pertama di Pulau Jawa. Di samping sebagai pusat pemerintahan, demak sekaligus pusat penyebaran agama Islam di Pulau Jawa. Salah satu rintangan para wali adalah masih kuatnya pengaruh Hindu dan Buddha di Demak pada waktu itu. Pada akhirnya Islam dapat diterima melalui pendekatan dengan dakwah melalui adat atau budaya yang ada. Untuk itu setiap tanggal 10 dzulhijjah Umat Islam memperingati Hari Raya Idul Adha dengan melaksanakan sholat Ied, penyembelihan hewan kemudian dilanjutkan dengan Grebeg Besar Demak. Pada waktu itu, di Masjid Agunh Demak diselenggarakan keramaian yang disisipi syair syair Islam<br>
 </details>
+<br>
 
 <details>
 <summary><b>[B. Inggris]</b></summary>
 <br>
-1. No, it does not. They are invertebrate animals. This means that unlike fish or people, they have no backbones. In fact, they have no bones at Allah<br><br>
+1. No, it does not. They are invertebrate animals. This means that unlike fish or people, they have no backbones. In fact, they have no bones at all<br><br>
 2. Because they are made almost entirely of water<br><br>
 3. Explain to the readers about jellyfish in general<br><br>
 4. Salt water, fresh water, tropical seas, and icy waters near the south and north poles<br><br>
-5. Jellyfish<br>
+5. Jellyfish
 </details>
+<br>
 
 untuk jawaban uraian Matematika, silahkan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a>
