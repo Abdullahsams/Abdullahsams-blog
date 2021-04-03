@@ -101,7 +101,7 @@ B. Hubungan manusia dengan manusia lain<br>
 C. Hubungan manusia dengan alam sekitar<br>
 D. Hubungan manusia dengan aktifitasnya <br>
 E. Hubungan manusia dengan imajinasinya<br><br>
-4. Lima teknik dalam membuat patung, yaideng<br>
+4. Lima teknik dalam membuat patung, yaitu :<br>
 A. Teknik pahat, yaitu mengurangi bahan menggunakan alat pahat<br>
 B. Teknik butsir, yaitu membentuk benda dengan mengurangi dan menambah benda<br>
 C. Teknik cor, yaitu membuat karya seni dengan membuat alat cetakan, kemudian dituangkan bahan berupa semen, gips, dan bahan sebagainya sehingga menghasilkan bentuk yang diinginkan<br>
@@ -126,49 +126,49 @@ E. Kertas gambar<br><br>
 <details>
 <summary><b>[Prakarya]</b></summary>
 <br>
-
+ngantuk, Minggu langsung diupdate
 </details>
 <br><hr>
 
 <details>
 <summary><b>[B. Indonesia]</b></summary>
 <br>
-
+ngantuk, Minggu langsung diupdate
 </details>
 <br><hr>
 
 <details>
 <summary><b>[IPS]</b></summary>
 <br>
-
+ngantuk, Minggu langsung diupdate
 </details>
 <br><hr>
 
 <details>
 <summary><b>[IPA]</b></summary>
 <br>
-belum, pasti segera diupdate apabila sudah selesai. 
+belum ujian, pasti segera diupdate apabila sudah selesai. 
 </details>
 <br><hr>
 
 <details>
 <summary><b>[BTQ]</b></summary>
 <br>
-belum, pasti segera diupdate apabila sudah selesai. 
+belum ujian, pasti segera diupdate apabila sudah selesai. 
 </details>
 <br><hr>
 
 <details>
 <summary><b>[B. Jawa]</b></summary>
 <br>
-belum, pasti segera diupdate apabila sudah selesai. 
+belum ujian, pasti segera diupdate apabila sudah selesai. 
 </details>
 <br><hr>
 
 <details>
 <summary><b>[PJOK]</b></summary>
 <br>
-belum, pasti segera diupdate apabila sudah selesai. 
+belum ujian, pasti segera diupdate apabila sudah selesai. 
 </details>
 <br><hr>
 untuk jawaban uraian Matematika, silahkan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a><br>
