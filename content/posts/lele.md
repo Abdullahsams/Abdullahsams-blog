@@ -1,7 +1,7 @@
 +++
 title = "Lele"
-date = "2018-10-21T09:14:16Z"
-author = ""
+date = "2031-10-21T09:14:16Z"
+author = "malam yang indah"
 authorTwitter = "" #do not include @
 cover = "/img/lele.jpg"
 tags = ["beh"]
