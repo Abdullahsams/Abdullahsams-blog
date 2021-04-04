@@ -229,7 +229,35 @@ B. Kita tidak boleh main hakim sendiri dan menyalahkan orang lain tanpa bukti ya
 <details>
 <summary><b>[IPS]</b></summary>
 <br>
-ngantuk, Minggu langsung diupdate
+1. Batas batas benua asia, antara lain :<br>
+A. Sebelah utara berbatasan dengan Samudra Arktik <br>
+B. Sebelah timur berbatasan dengan Samudra Pasifik dan selat bering <br>
+C. Sebelah selatan berbatasan dengan Samudra Hindia<br>
+D. Sebelah barat berbatasan dengan Laut Tengah, Laut Merah, Laut Kaspia, Laut Hitam, Laut Tengah, Selat Bosporus, Selat Dardanella, Terusan Suez, Pegunungan Ural dan Benua Eropa<br><br><hr>
+2. Globalalisasi dalam bidang IPTEK membawa pengaruh besar dalam kemajuan IPTEK yang memberikan kemudahan dan kenyamanan bagi kehidupan manusia. Mulai dari kemudahan mencari sumber informasi dari teknologi Internet, mudahnya berkomunikasi dengan teman menggunakan teknologi atau media sosial, bahkan sampai membawa pengaruh yang menghasilkan teknologi komputer, handphone, siaran televisi, serta satelit telah mempercepat alira informasi menembus batas dunia<br><br><hr>
+3. Sepuluh jenis subsektor dalam ekonomi kreatif yang berkembang di Indonesia, yaitu :<br>
+A. Aplikasi dan pengembangan permainan<br>
+B. Arsitektur<br>
+C. Desain produk<br>
+D. Fashion<br>
+E. Desain interior<br>
+F. Desain komunikasi visual<br>
+G. Seni pertunjukan<br>
+H. Film, animasi, dan video<br>
+I. Fotografi<br>
+J. Kriya<br>
+<blockquote>
+Alternatif jawaban :<br>
+> Kuliner<br>
+> Music<br>
+> Periklanan<br>
+> Penerbitan<br>
+> Seni rupa<br>
+> Televise dan radio
+</blockquote>
+4. Pemilu tahun 1955 merupakan pemilu pertama di Indonesia, rakyat telah menggunakan hak pilihnya untuk memilih wakil wakil mereka. Keberhasilan pemilu tahun 1955 menandakan telah berjalannya demokrasi di tangan masyarakat. <br><br>
+Pemilu tahun 1955 dilaksanakan dalam 2 tahap. Tahap pertama adalah untuk memilih anggota DPR yang berjumlah 250 orang, tahap kedua adalah untuk memilih anggota Dewan Konstintuante yang akan bertugas untuk membuat Undang Undang Dasar yang tetap sebagai pengganti UUD Sementara 1950<br><br><hr>
+5. Alasan dikeluarkannya Dekrit Presiden 5 Juli 1959 adalah karena kegagalan Dewan Konstintuante dalam menyusun UUD sebagai Pengganti UUDS 1950 yang disebabkan perbedaan pandangan tentang dasar negara
 </details>
 <br><hr>
 
