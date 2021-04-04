@@ -1,5 +1,5 @@
 +++
-title = "Uraian"
+title = "menggokil"
 date = "2021-04-03T13:13:46Z"
 author = "Sams"
 authorTwitter = "" #do not include @
