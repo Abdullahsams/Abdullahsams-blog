@@ -264,14 +264,44 @@ Pemilu tahun 1955 dilaksanakan dalam 2 tahap. Tahap pertama adalah untuk memilih
 <details>
 <summary><b>[IPA]</b></summary>
 <br>
-belum ujian, pasti segera diupdate apabila sudah selesai. 
+1. Benar. Artikel tersebut membahas hubungan antara tekanan dengan peredaran darah. Tekanan zat cair tidak hanya terjadi pada tumbuhan, melainkan juga terjadi pada manusia yang biasa disebut tekanan pada peredaran darah<br><br><hr>
+2. Benar. Tekanan darah pada peredaran darah berdasarkan prinsip Pascal, dikarenakan sistem peredaran darah terjadi di pembuluh darah yang merupakan ruangan tertutup sehingga darah bisa mengalir ke seluruh tubuh. Hal ini sesuai dengan hukum Pascal, yang di mana bunyi hukumnya sendiri adalah  tekanan yang diberikan oleh cairan dalam ruang tertutup selalu diteruskan ke segala arah dengan sama besar<br><br><hr>
+3. Benar. Jantung dapat memompa darah ke seluruh tubuh karena otot jantung. Saat otot jantung berkontraksi maka darah akan mendapatkan dorongan untuk keluar dari jantung melalui pembuluh aorta, yang disebut tekanan darah sistol. Sedangkan saat otot jantung berelaksasi, maka darah akan mendapatkan dorongan untuk masuk ke dalam serambi melalui pembuluh vena, disebut dengan tekanan darah diastol. Agar kestabilan tekanan darah tetap terjaga, maka pembuluh darah harus terisi penuh oleh darah. Apabila terjadi kehilangan darah, maka tekanan darah akan berkurang yang terjadi karena darah tidak dapat mengalir ke seluruh tubuh<br><br><hr>
+4. Benar. Dalam mengukur tekanan darah dapat menggunakan alat tensimeter dengan mengukur tekanan sistol dan diastol. Tekanan darah normal berkisar 120/80 mmHg, angka 120 menunjukkan tekanan darah sistol sedangkan angka 80 menunjukkan tekanan darah diastol<br><br><hr>
+5. Salah. Memang hipertensi terjadi karena pembuluh darah menyempit disebabkan adanya plak yang mengganggu aliran darah, sehingga jantung bekerja lebih keras untuk memompa darah. Akan tetapi dampak yang terjadi apabila mengalami hipertensi adalah stroke, dikarenakan kuatnya tekanan dari pompa jantung terhadap dinding pembuluh darah yang dapat menyebabkan stroke. Dampak pusing, mudah letih, dan kehilangan keseimbangan karena kurang asupan oksigen pada otak terjadi pada penderita hipotensi atau darah rendah
 </details>
 <br><hr>
 
 <details>
 <summary><b>[BTQ]</b></summary>
 <br>
-belum ujian, pasti segera diupdate apabila sudah selesai. 
+1. Dalam Al Qur'an terdapat 5 bacaan ghorib, antara lain :<br>
+A. Imalah<br>
+B. Saktah<br>
+C. Isymam<br>
+D. Tashil<br>
+E. Naql<br><br><hr>
+2. Apabila memiringkan bacaan fathah kepada kasroh adalah dengan membaca bacaan ghorib Imalah<br><br><hr>
+3. Lima hukum bacaan mad, yaitu :<br>
+A. Mad lazim mutsaqqal kilmi<br>
+B. Mad lazim mukhaffaf kilmi<br>
+C. Mad lazim mutsaqqal harfi<br>
+D. Mad lazim mukhaffaf harfi<br>
+E. Mad ‘arid lissukun<br>
+<blockquote>
+Alternatif jawaban :<br>
+> Mad jaiz munfashil<br>
+> Mad wajib muttashil<br>
+> Mad farqi<br>
+> Mad badal<br>
+> Mad ‘iwad<br>
+> Mad shilah<br>
+</blockquote>
+4. hukum lam jalalah tafkhim terdapat pada kalimat  هُوَ اللّٰهُ, yang disebabkan adanya huruf berharakat fathah atau dhammah sebelum lafadz Allah<br>
+
+![lam jalalah tafkhim](/img/lam.jpg)
+<hr>
+5. apabila terdapat mad thobii bertemu dengan hamzah dalam satu kata. maka hukum bacaan tersebut dalam hukum mad wajib muttashil
 </details>
 <br><hr>
 
