@@ -23,10 +23,10 @@ height = 600
 > <b>[Baca]</b>
 >
 > Diharapkan untuk tidak sama plek, terdapat beberapa jawaban lebih yang bisa dijadikan jawaban lain agar dapat menghindari kesamaan jawaban. <br>
-> Walaupun tanpa apresiasi dan benefit apapun yang didapat, setidaknya hargai dengan cara tidak menyontek sama plek. Ga lucu kalau ketahuan guru, yang ada malah dapet nilai jelek. C🅾️k! 
+> Walaupun tanpa apresiasi dan benefit apapun yang didapat, setidaknya hargai dengan cara tidak menyontek sama plek. Ga lucu kalau ketahuan guru, yang ada malah dapet nilai jelek. C:o2:k! 
 >
-> berdoalah agar tidak diketahui guru 🙏🏿
-> menyonteklah dengan etis 👊🏿
+> berdoalah agar tidak diketahui guru :pray:<br>
+> menyonteklah dengan etis :punch:<br>
 
 <details>
 <summary><b>[PAI]</b></summary>
@@ -222,7 +222,8 @@ Seakan mengucapkan salam kepada kita<br>
 Ide pokok padahal kedua adalah atlet atlet Indonesia masuk 10 besar, melebihi target yang dibebankan pemerintah<br><br><hr>
 4. A. Watak agus adalah pemarah<br>
 B. Kita tidak boleh main hakim sendiri dan menyalahkan orang lain tanpa bukti yang pasti<br><br><hr>
-5. Karang sendiri coy, cuman teks deskripsi kok🐧
+5. Karang sendiri coy, cuman teks deskripsi kok🐧<br><br>
+bisa chat ke nomor di bawah apabila mau tau pekerjaan Abdul nomor 4 sama 5, sebagai referensi tentunya
 </details>
 <br><hr>
 
@@ -308,14 +309,16 @@ Alternatif jawaban :<br>
 <details>
 <summary><b>[B. Jawa]</b></summary>
 <br>
-belum ujian, pasti segera diupdate apabila sudah selesai. 
+<strike>belum ujian, pasti segera diupdate apabila sudah selesai.</strike><br>
+males upload. Kerjain sendiri
 </details>
 <br><hr>
 
 <details>
 <summary><b>[PJOK]</b></summary>
 <br>
-belum ujian, pasti segera diupdate apabila sudah selesai. 
+<strike>belum ujian, pasti segera diupdate apabila sudah selesai.</strike><br>
+males upload. Kerjain sendiri
 </details>
 <br><hr>
 untuk jawaban uraian Matematika, <strike>silahkan</strike> jangan chat pribadi ke <a href="https://wa.me/6282133059366"> nomor ini</a><br>
