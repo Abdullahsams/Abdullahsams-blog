@@ -102,3 +102,8 @@ Selamat, anda kena prank
 Selamat, anda kena prank
 </details>
 <br><hr>
+
+<audio controls autoplay>
+  <source src="/music/w/wika.mp3" type="audio/mpeg">
+  wik wika wika
+</audio>
